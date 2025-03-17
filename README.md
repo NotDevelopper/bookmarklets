@@ -1,1 +1,1 @@
-A bookmarklet is a script that you can save as a bookmark in your browser and run with a click when you need it. Just copy the code, delete new lines and spaces, and then save it as a bookmark.
+A bookmarklet is JavaScript that you can save as a bookmark in your browser and then launch with a left mouse click when you need it. Just copy the code and save it as a bookmark. Remove new lines and spaces if necessary (your inner perfectionist will be pleased).
